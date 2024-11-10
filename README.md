@@ -6,7 +6,7 @@
 
 Este projeto tem o objetivo de gerar um eBook digital sobre NLP (Processamento de Linguagem Natural) e Análise de Sentimentos, mostrando como implementar um exemplo prático usando Python e bibliotecas pré-treinadas. Todos os prompts utilizados para gerar o conteúdo seguem abaixo.
 
-📕 [Clique aqui para ler o eBook](#)
+📕 [Clique aqui para ler o eBook](https://github.com/andrederis/DIO-desafio-ebook/blob/main/ebook_analise_sentimentos.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 - **ChatGPT**: para gerar conteúdo textual do eBook.
