@@ -44,7 +44,3 @@ Este projeto foi criado com o auxílio de ferramentas de Inteligência Artificia
 **André Roberto Sabela Pereira**  
 
 
----
-
-⌨️ com 💜 por **[Seu Nome]**
-
